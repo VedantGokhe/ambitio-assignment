@@ -1,0 +1,8 @@
+scholarly
+requests
+beautifulsoup4
+pandas
+rapidfuzz
+groq
+python-dotenv
+google-search-results

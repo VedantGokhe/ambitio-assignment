@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+get-pip.py
+data/raw_profiles.json
+data/filtered_profiles.json
